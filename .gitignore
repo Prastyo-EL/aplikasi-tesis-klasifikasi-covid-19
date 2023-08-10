@@ -6,3 +6,4 @@ app/build/intermediates/merged_assets/debug/out/model_tl_sigmoid_horizontal.tfli
 app/build/intermediates/merged_assets/debug/out/model_tl_sigmoid_zoom_dll.tflite
 app/build/intermediates/merged_assets/debug/out/model_tl_softmax_zoom_dll.tflite
 app/build/intermediates/compressed_assets/debug/out/assets/model_tl_sigmoid_zoom_dll.tflite.jar
+app/build/outputs/apk/debug/app-debug.apk

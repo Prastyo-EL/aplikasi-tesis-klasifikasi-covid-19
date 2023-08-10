@@ -1,0 +1,4 @@
+#Thu Aug 10 18:05:25 WIB 2023
+base.0=/Users/yurio/aplikasi-tesis-klasifikasi-covid-19/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
