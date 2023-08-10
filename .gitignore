@@ -1,0 +1,8 @@
+app/build/intermediates/compressed_assets/debug/out/assets/model_tl_softmax_horizontal.tflite.jar
+app/build/intermediates/compressed_assets/debug/out/assets/model_tl_softmax_zoom_dll.tflite.jar
+app/build/intermediates/merged_assets/debug/out/model_tl_softmax_horizontal.tflite
+app/build/intermediates/compressed_assets/debug/out/assets/model_tl_sigmoid_horizontal.tflite.jar
+app/build/intermediates/merged_assets/debug/out/model_tl_sigmoid_horizontal.tflite
+app/build/intermediates/merged_assets/debug/out/model_tl_sigmoid_zoom_dll.tflite
+app/build/intermediates/merged_assets/debug/out/model_tl_softmax_zoom_dll.tflite
+app/build/intermediates/compressed_assets/debug/out/assets/model_tl_sigmoid_zoom_dll.tflite.jar
