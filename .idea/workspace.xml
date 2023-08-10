@@ -7,7 +7,11 @@
   </component>
   <component name="AutoImportSettings">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <option name="autoReloadType" value="NONE" />
+=======
+    <option name="autoReloadType" value="SELECTIVE" />
+>>>>>>> cf91c3879c386a1526aa55237f9d0575c81de625
 =======
     <option name="autoReloadType" value="SELECTIVE" />
 >>>>>>> cf91c3879c386a1526aa55237f9d0575c81de625
@@ -16,6 +20,10 @@
     <list default="true" id="022daecd-f573-447e-8c66-21e2a3610871" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+>>>>>>> cf91c3879c386a1526aa55237f9d0575c81de625
 =======
       <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
 >>>>>>> cf91c3879c386a1526aa55237f9d0575c81de625
@@ -26,7 +34,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[/Users/yurio/.android/avd/Clasification_Covid-19_Resizable_Experimental_API_33_2.avd]" />
+=======
+>>>>>>> cf91c3879c386a1526aa55237f9d0575c81de625
 =======
 >>>>>>> cf91c3879c386a1526aa55237f9d0575c81de625
   <component name="ExternalProjectsData">
@@ -55,6 +66,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -78,6 +90,8 @@
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
 =======
+=======
+>>>>>>> cf91c3879c386a1526aa55237f9d0575c81de625
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -87,6 +101,9 @@
   </component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+<<<<<<< HEAD
+>>>>>>> cf91c3879c386a1526aa55237f9d0575c81de625
+=======
 >>>>>>> cf91c3879c386a1526aa55237f9d0575c81de625
       <module name="ImageClassificationKotlin.app.main" />
       <option name="DEPLOY" value="true" />
@@ -148,6 +165,7 @@
     </configuration>
   </component>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -157,6 +175,9 @@
       <option name="presentableId" value="Default" />
       <updated>1691665815804</updated>
     </task>
+=======
+  <component name="TaskManager">
+>>>>>>> cf91c3879c386a1526aa55237f9d0575c81de625
 =======
   <component name="TaskManager">
 >>>>>>> cf91c3879c386a1526aa55237f9d0575c81de625

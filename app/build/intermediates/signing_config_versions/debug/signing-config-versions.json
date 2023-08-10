@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 {"enableV1Signing":false,"enableV2Signing":true,"enableV3Signing":false,"enableV4Signing":false}
+=======
+{"enableV1Signing":true,"enableV2Signing":true,"enableV3Signing":false,"enableV4Signing":false}
+>>>>>>> cf91c3879c386a1526aa55237f9d0575c81de625
 =======
 {"enableV1Signing":true,"enableV2Signing":true,"enableV3Signing":false,"enableV4Signing":false}
 >>>>>>> cf91c3879c386a1526aa55237f9d0575c81de625
