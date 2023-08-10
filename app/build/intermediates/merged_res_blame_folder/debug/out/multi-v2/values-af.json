@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/yurio/AppleBananaApps/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-af/values-af.xml",
+            "outputFile": "/Users/yurio/aplikasi-tesis-klasifikasi-covid-19/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-af/values-af.xml",
             "map": [
                 {
                     "source": "/Users/yurio/.gradle/caches/transforms-2/files-2.1/001c2e17ec9d21aa891dc81b4c2e075d/core-1.3.2/res/values-af/values-af.xml",

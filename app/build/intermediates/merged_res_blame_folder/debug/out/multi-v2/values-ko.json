@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/yurio/AppleBananaApps/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ko/values-ko.xml",
+            "outputFile": "/Users/yurio/aplikasi-tesis-klasifikasi-covid-19/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ko/values-ko.xml",
             "map": [
                 {
                     "source": "/Users/yurio/.gradle/caches/transforms-2/files-2.1/2f92b9b7fa7d26b98742c9b2a7b8abdc/appcompat-1.2.0/res/values-ko/values-ko.xml",
