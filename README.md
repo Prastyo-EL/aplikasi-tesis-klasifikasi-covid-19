@@ -1,4 +1,7 @@
-# The dataset details are described in this preprint: [a mobile deep learning model on covid-19 ct-scan classification](https://ijair.id/index.php/ijair/article/view/257/pdf)
+# The described in this preprint: [a mobile deep learning model on covid-19 ct-scan classification](https://ijair.id/index.php/ijair/article/view/257/pdf)
+
+# dataset
+[dataset : ](https://github.com/Prastyo-EL/tesis-klasifikasi-covid-19)
 
 
 # tampilan apps
