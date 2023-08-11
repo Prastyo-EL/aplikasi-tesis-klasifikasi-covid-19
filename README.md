@@ -1,4 +1,5 @@
-# a mobile deep learning model on covid-19 ct-scan classification
+# The dataset details are described in this preprint: [a mobile deep learning model on covid-19 ct-scan classification](https://ijair.id/index.php/ijair/article/view/257/pdf)
+
 
 # tampilan apps
 
